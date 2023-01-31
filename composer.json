@@ -1,0 +1,16 @@
+{
+    "name": "nikola/auction-app",
+    "type": "project",
+    "authors": [
+        {
+            "name": "NikolaWd",
+            "email": "nikola.contact24@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\" : ""
+        }
+    }
+}
